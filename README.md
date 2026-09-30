@@ -60,4 +60,3 @@ GitHub Release 中提供免安装的 Windows x64 压缩包。解压后直接运�
 
 项目包含 `.github/workflows/release.yml`，推送 `v*` 标签后会在 GitHub Actions 中重新构建
 Windows x64 单文件程序并上传到对应 Release。
-
